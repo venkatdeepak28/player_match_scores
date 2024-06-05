@@ -1,0 +1,26 @@
+GET https://venkatadeepakzabmsnjscpscvyl.drops.nxtwave.tech/players/5
+
+###
+
+PUT https://venkatadeepakzabmsnjscpscvyl.drops.nxtwave.tech/players/8
+Content-type: application/json
+
+{
+  "playerName": "Venkat"
+}
+
+###
+
+GET https://venkatadeepakzabmsnjscpscvyl.drops.nxtwave.tech/matches/18
+
+###
+
+GET https://venkatadeepakzabmsnjscpscvyl.drops.nxtwave.tech/players/3/matches
+
+###
+
+GET https://venkatadeepakzabmsnjscpscvyl.drops.nxtwave.tech/matches/3/players
+
+###
+
+GET https://venkatadeepakzabmsnjscpscvyl.drops.nxtwave.tech/players/1/playerScores
